@@ -1,0 +1,25 @@
+=== IMPLEMENTACJA KODOWANIA HUFFMANA ===
+
+WYMAGANIA:
+Do uruchomienia programu wymagany jest kompilator GCC oraz narzędzie Make (standard w systemach Linux/macOS).
+
+1. KOMPILACJA (Budowanie programu)
+Aby skompilować projekt, otwórz terminal w folderze "algorytmy" i wpisz komendę:
+   make
+
+Stworzy to plik wykonywalny o nazwie 'huffman'.
+
+2. URUCHOMIENIE
+Aby włączyć program, wpisz w terminalu:
+   ./huffman
+
+3. OBSŁUGA PROGRAMU
+Po uruchomieniu zobaczysz menu z następującymi opcjami:
+   1. Test kolejki priorytetowej - pozwala przetestować działanie struktur danych.
+   2. Kompresja pliku - prosi o podanie pliku wejściowego i nazwy dla pliku wyjściowego.
+   3. Dekompresja pliku - przywraca oryginalny plik ze skompresowanego.
+   4. Wyjście
+
+4. CZYSZCZENIE (Opcjonalne)
+Aby usunąć pliki tymczasowe (obiektowe .o) oraz plik wykonywalny, wpisz:
+   make clean
