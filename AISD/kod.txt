@@ -1,0 +1,4 @@
+Stary niedzwiedz mocno spi.
+Algorytm Huffmana zamienia znaki na kody o zmiennej dlugosci.
+Im czesciej znak wystepuje, tym krotszy ma kod.
+112223333

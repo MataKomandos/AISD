@@ -1,0 +1,12 @@
+SŁOWNIK:
+S: 1 - 101101
+t: 2 - 11000
+a: 8 - 010
+r: 2 - 11001
+y: 2 - 11010
+SPACJA: 13 - 00
+ENTER: 3 - 10111
+... (pozostałe znaki i ich kody)
+DANE:
+[tu znajdą się nieczytelne znaki binarne]
+PADDING: 4
